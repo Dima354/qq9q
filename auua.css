@@ -1,0 +1,86 @@
+.box1{
+    width: 500px;
+    height: 100px;
+    background-color: darkred;
+}
+.box2{
+    width: 500px;
+    height: 100px;
+    background-color: chartreuse;
+}
+.box3{
+    width: 500px ;
+    height: 100px;
+    background-color: cyan;
+}
+.no1{
+    width: 500px;
+    margin-top: 30px;
+    height: 100px;
+}
+.l1{
+    float: left;
+    width: 166px;
+    height: 100px;
+    background-color: darkred;
+}
+.l2{
+    float: left; 
+    width: 166px;
+    height: 100px;
+    background-color: chartreuse;
+}
+.l3{
+    float: left;
+    width: 166px;
+    height: 100px;
+    background-color: cyan;
+}
+.smth{
+    width: 500px;
+    height: 100px;
+    background-color: gold;
+}
+.s{
+    width: 500px;
+    height: 100px;
+}
+.k{
+    float: left;
+    width: 250px;
+    height: 100px;
+    background-color: dimgray;
+}
+.k1{ 
+    float: left; 
+    width: 250px; 
+    height: 100px; 
+    background-color: rgb(0, 0, 0); 
+} 
+.no3{ 
+    width: 600px; 
+    margin-top: 30px; 
+    height: 200px; 
+} 
+.h{ 
+    border: 10px solid rgb(173, 180, 173); 
+    float: left; 
+    width: 170px; 
+    height: 200px; 
+    background-color: red; 
+} 
+.h1{ 
+    border: 10px solid rgb(173, 180, 173); 
+    float: left; 
+    width: 170px; 
+    height: 200px; 
+    background-color: rgb(7, 119, 3); 
+} 
+.h2{ 
+    border: 10px solid rgb(173, 180, 173); 
+    float: left; 
+    width: 170px; 
+    height: 200px; 
+    background-color: rgb(25, 0, 255); 
+}
+
